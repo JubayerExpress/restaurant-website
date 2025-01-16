@@ -31,3 +31,12 @@ restaurant-website/
 │       └── style.css
 └── scripts/
     └── script.js        # JavaScript for interactivity
+
+---
+
+### Key Points to Modify:
+- **Clone URL**: Make sure to replace the placeholder `https://github.com/your-username/restaurant-website.git` with the actual URL of your GitHub repository.
+- **Images**: You can replace the food images in the `assets/images/` folder with your restaurant's actual food photos.
+- **License**: Adjust the license if needed. You can also add a `LICENSE` file in the repository.
+
+This README provides an overview of the project and how others can set it up and contribute!
